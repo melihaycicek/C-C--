@@ -6,7 +6,7 @@ using namespace std;
 // forward declaration
 class ClassB;
 
-class ClassA {
+class ClassA : deneme {
     public:
         int numA;
 

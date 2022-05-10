@@ -1,0 +1,4 @@
+melihmelcd
+
+"c:\Users\samet\Desktop\C-C++\"
+; if ($?) { g++ testSinifi.cpp -o testSinifi } ; if ($?) { .\testSinifi }
